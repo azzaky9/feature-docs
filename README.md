@@ -74,5 +74,4 @@ Our-Connected menawarkan pengguna opsi untuk mempersonalisasi profil mereka:
 
 Dengan fitur-fitur ini, Our-Connected bertujuan memberikan pengalaman yang mudah digunakan dan menyenangkan bagi semua pengguna.
 
-Jika Anda memiliki pertanyaan lebih lanjut atau memerlukan bantuan tambahan, jangan ragu untuk bertanya. Nikmati pengalaman Anda di Our-Connected!
-
+links: https://our-connected.vercel.app/register/signin
