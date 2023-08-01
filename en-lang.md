@@ -7,13 +7,13 @@ The Authentication feature allows users to create an account and sign in to the 
 
 ##### Signup
 To create an account, follow these steps:
-1. Click on the "Signup" button located on the homepage or navigation bar.
+1. Click on the "here" blue text located on the sign in page 
 2. Fill in the required information, such as your email address and password.
 3. After filling in the details, click the "Create Account" button.
-4. Congratulations! You are now a registered user of Our-Connected.
+4. Congratulations! You are now a registered user of Our-Connected, and you must be direct to signin page.
 
 ##### Signin
-If you already have an account, follow these steps to sign in:
+If you already have an account, follow these steps to sign in: 
 1. Click on the "Signin" button located on the homepage or navigation bar.
 2. Enter your registered email address and password.
 3. Click the "Sign In" button to access your account.
