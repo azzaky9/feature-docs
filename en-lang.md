@@ -74,4 +74,4 @@ Our-Connected offers users the option to personalize their profiles:
 
 With these features, Our-Connected aims to provide a user-friendly and enjoyable experience for all users.
 
-links: https://our-connected.vercel.app/
+[Visit Our-Connected Website](https://www.our-connected.com)
