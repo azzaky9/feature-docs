@@ -64,6 +64,10 @@ Our-Connected menawarkan pengguna opsi untuk mempersonalisasi profil mereka:
 4. Di layar pengeditan profil, klik tombol "Edit" untuk mengubah nama pengguna Anda.
 5. Simpan perubahan setelah Anda puas dengan nama pengguna baru.
 
+![setting-flow](https://firebasestorage.googleapis.com/v0/b/blog-our-connected.appspot.com/o/docs-assets%2FScreenshot%20from%202023-08-01%2013-07-08.png?alt=media&token=225b0c2d-ecdc-4df9-b2d1-e67442ec1a5d)
+
+![setting-flow](https://firebasestorage.googleapis.com/v0/b/blog-our-connected.appspot.com/o/docs-assets%2FScreenshot%20from%202023-08-01%2013-11-18.png?alt=media&token=a1c4a180-f4aa-49b6-9ff5-e12a737acc7d)
+
 ##### Keluar
 1. Untuk keluar dari akun Anda, klik gambar profil Anda di sudut kanan atas "menu" bilah navigasi.
 2. Pilih opsi "Logout" dari menu dropdown.
