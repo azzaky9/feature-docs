@@ -59,10 +59,14 @@ Our-Connected offers users the option to personalize their profiles:
 
 ##### Setting Your Username
 1. Upon creating an account, your initial username will be "unset-name" followed by a unique random number.
-2. To change your username, click on your profile picture located on the top right corner of the navigation bar.
-3. Select the "Profile" option from the dropdown menu.
-4. In the profile editing screen, click on the "Edit" button to modify your username.
-5. Save the changes once you are satisfied with the new username.
+3. To change your username, click on your profile picture located on the top right corner of the navigation bar.
+4. Select the "Profile" option from the dropdown menu.
+5. In the profile editing screen, click on the "Edit" button to modify your username.
+6. Save the changes once you are satisfied with the new username.
+
+![setting-flow](https://firebasestorage.googleapis.com/v0/b/blog-our-connected.appspot.com/o/docs-assets%2FScreenshot%20from%202023-08-01%2013-07-08.png?alt=media&token=225b0c2d-ecdc-4df9-b2d1-e67442ec1a5d)
+
+![setting-flow](https://firebasestorage.googleapis.com/v0/b/blog-our-connected.appspot.com/o/docs-assets%2FScreenshot%20from%202023-08-01%2013-11-18.png?alt=media&token=a1c4a180-f4aa-49b6-9ff5-e12a737acc7d)
 
 ##### Logging Out
 1. To sign out of your account, click on your profile picture at the top right corner of the navigation bar.
